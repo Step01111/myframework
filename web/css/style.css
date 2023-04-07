@@ -1,0 +1,33 @@
+html {
+	height: 100%;
+}
+body {
+	position: relative;
+	min-height: 100%;
+	margin: 0;
+}
+header {
+	height: 70px;
+	padding: 20px 0 0 10%;
+	background-color: #e0e0e0;
+	font: 24px Verdana, sans-serif;
+}
+main {
+	padding-bottom: 80px;
+}
+#inf_main {
+	padding-top: 20px;
+	font: 30px Arial, sans-serif;
+	color: #505050;
+	text-align: center;
+}
+footer {
+	position: absolute;
+	bottom: 0;
+	height: 60px;
+	width: 100%;
+	padding-top: 15px;
+	background-color: #e7f5ee;
+	font: 14px Arial, sans-serif;
+	text-align: center;
+}

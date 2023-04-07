@@ -1,0 +1,10 @@
+{
+    "name": "step/kurs",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
